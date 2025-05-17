@@ -6,10 +6,13 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
 
 ✅ This project successfully predicted the **Final Four**, **Final Two**, and the **National Champion** of March Madness 2025!
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb025e66-8978-4011-a528-351f6aac95fc" width="400"/>
+  <img src="https://github.com/user-attachments/assets/cb025e66-8978-4011-a528-351f6aac95fc" width="300"/>
 </p>
      
+
 
 ## 🎯 Key Highlights
 
@@ -19,7 +22,7 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
 - **Sentiment Modeling**: Reddit comments (positive only) enhance predictions with real-world buzz
 - **Model Validation**: Train-test split using **year-based sampling** to simulate future tournaments
 
-Check more insights [**here**](output/Presentation.pptx)
+Check more insights [**here**](output/Presentation.pdf)
 
 ### 📊 Notebooks
 
