@@ -5,7 +5,8 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
 ## 🏆 Prediction Results
 
 ✅ This project successfully predicted the **Final Four**, **Final Two**, and the **National Champion** of March Madness 2025!
-![image](https://github.com/user-attachments/assets/cb025e66-8978-4011-a528-351f6aac95fc)
+<img src="https://github.com/user-attachments/assets/cb025e66-8978-4011-a528-351f6aac95fc" width="300"/>
+
 
 
 ## 🎯 Key Highlights
