@@ -53,13 +53,8 @@ Outputs include:
 
 ## 📌 Getting Started
 
-1. Clone this repo
-2. Install dependencies via `pip install -r requirements.txt`
-3. Run notebooks in order:
+- Clone this repo
+-Run notebooks in order:
    - Data Processing → Modeling Data Preparation → Modeling Pipeline → Reddit Scraping
-
-## 📬 Contact
-
-For collaboration or feedback, please open an issue or reach out via GitHub Discussions.
 
 
