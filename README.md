@@ -6,6 +6,14 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
 
 ✅ This project successfully predicted the **Final Four**, **Final Two**, and the **National Champion** of March Madness 2025!
 
+## 🎯 Key Highlights (from [Presentation.pptx](./output/Presentation.pptx))
+
+- **Multi-source Modeling**: Combines performance stats, economic signals, and fan sentiment
+- **Principal Component Analysis**: Reduces dimensionality and noise from correlated features
+- **ChatGPT-Generated Variables**: Uses generative AI to create 500+ optimized feature combinations
+- **Sentiment Modeling**: Reddit comments (positive only) enhance predictions with real-world buzz
+- **Model Validation**: Train-test split using **year-based sampling** to simulate future tournaments
+
 ### 📊 Notebooks
 
 | Notebook | Description |
@@ -14,14 +22,6 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
 | [Modeling Data Preparation.ipynb](./Modeling%20Data%20Preparation.ipynb) | Combines engineered features, generates PCA components (PC1–PC4), and builds modeling-ready training and test datasets |
 | [Modeling Pipeline.ipynb](./Modeling%20Pipeline.ipynb) | Trains and evaluates multiple models (XGBoost, RF, NN, Logistic Regression) across 500+ variable combinations |
 | [Redddit_Scraping.ipynb](./Redddit_Scraping.ipynb) | Extracts Reddit sentiment data from fan discussions to quantify buzz and public support for teams |
-
-## 🎯 Key Insights (from [Presentation.pptx](./Presentation.pptx))
-
-- **Multi-source Modeling**: Combines performance stats, economic signals, and fan sentiment
-- **Principal Component Analysis**: Reduces dimensionality and noise from correlated features
-- **ChatGPT-Generated Variables**: Uses generative AI to create 500+ optimized feature combinations
-- **Sentiment Modeling**: Reddit comments (positive only) enhance predictions with real-world buzz
-- **Model Validation**: Train-test split using **year-based sampling** to simulate future tournaments
 
 ## 🧠 Models Used
 
