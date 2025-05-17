@@ -2,7 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
 statsmodels
 xgboost
 tqdm
@@ -10,3 +9,9 @@ openpyxl
 jupyter
 praw
 ipykernel
+pathlib
+math
+sklearn
+random
+ast
+os
