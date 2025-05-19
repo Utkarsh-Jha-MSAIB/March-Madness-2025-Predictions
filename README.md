@@ -1,4 +1,4 @@
-# 🏀 March Data Crunch Madness 2025 🏀
+# 🏀 March Data Crunch Madness 2025
 
 This repository contains the full pipeline and analysis for predicting NCAA March Madness outcomes using historical statistics, PCA, macroeconomic indicators, and Reddit sentiment. It includes both data processing and machine learning workflows, complemented by a deep dive presentation.
 
