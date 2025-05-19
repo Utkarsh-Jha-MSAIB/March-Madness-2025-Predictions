@@ -1,8 +1,8 @@
-# 🏀 March Data Crunch Madness 2025
+# 🏀 March Data Crunch Madness 2025 🏀
 
 This repository contains the full pipeline and analysis for predicting NCAA March Madness outcomes using historical statistics, PCA, macroeconomic indicators, and Reddit sentiment. It includes both data processing and machine learning workflows, complemented by a deep dive presentation.
 
-## 🏆 Prediction Results
+## Prediction Results
 
 ✅ This project successfully predicted the **Final Four**, **Final Two**, and the **National Champion** of March Madness 2025!
 
@@ -14,7 +14,7 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
      
 
 
-## 🎯 Key Highlights
+## Key Highlights
 
 - **Multi-source Modeling**: Combines performance stats, economic signals, and fan sentiment
 - **Principal Component Analysis**: Reduces dimensionality and noise from correlated features
@@ -24,7 +24,7 @@ This repository contains the full pipeline and analysis for predicting NCAA Marc
 
 Check more insights [**here**](output/Presentation.pdf)
 
-### 📊 Notebooks
+### Notebooks
 
 | Notebook | Description |
 |----------|-------------|
@@ -33,7 +33,7 @@ Check more insights [**here**](output/Presentation.pdf)
 | [Modeling Pipeline](./Modeling%20Pipeline.ipynb) | Trains and evaluates multiple models (XGBoost, RF, NN, Logistic Regression) across 500+ variable combinations |
 | [Redddit_Scraping](./Redddit_Scraping.ipynb) | Extracts Reddit sentiment data from fan discussions to quantify buzz and public support for teams |
 
-## 🧠 Models Used
+## Models Used
 
 - `XGBoostClassifier`
 - `RandomForestClassifier`
@@ -44,14 +44,14 @@ Each model was evaluated on:
 - Accuracy, Precision, Recall, F1 Score, AUC, Log Loss
 - Visualized with ROC Curves and Feature Importances
 
-## 📎 Example Output
+## Example Output
 
 Outputs include:
 - Excel summaries with top 5 models highlighted
 - PCA-transformed datasets
 - Final predictions for 2025
 
-## 📌 Getting Started
+## Getting Started
 
 - Clone this repo
 -Run notebooks in order:
